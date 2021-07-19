@@ -123,9 +123,9 @@ enableEmoji = true
     url = "/start/"
     weight = 1
   [[menu.header]]
-    name = "Modules"
+    name = "Modules/Blog"
     title = "Modules"
-    url = "/module/"
+    url = "/blog/"
     weight = 2
   [[menu.header]]
     name = "Labs"
